@@ -7,9 +7,9 @@
 •	Daniel King-Alan
 
 
-**Project Description**
+**Project Description** 
 This project observed the YouTube ‘s Videos category, counts, likes and comments based per country and its relation to each other. This project answers the question
-Our analysis focuses on answering below questions:
+Our analysis focuses on answering below questions: 
 •	Is there a significant difference in the average like count of the top 50 videos within each designated region within YouTube? 
 •	Ha: Average like count will be significantly different between the regions 
 •	H0: There is no difference between the average like count by region 
@@ -74,11 +74,11 @@ As part of Data Visualization, Bar graphs , Pie Charts, Box Plots are used to di
 7.	As view count increases the like and comment counts also increases accordingly.
 8.	Top 5 countries that have the highest density of viewership are all located in Eastern or Southern Europe. It could indicate either cultural or socio-economic trend of those regions, or combination of both.
 
-**Contact :**
-https://github.com/PatttyCakess/Youtube-API-project
+**Contact :** 
+https://github.com/PatttyCakess/Youtube-API-project 
 
-**References :**
-YouTube API -  https://developers.google.com/youtube/v3
-Python - https://pandas.pydata.org/
-GitHub - https://github.com/PatttyCakess/Youtube-API-project
+**References :** 
+YouTube API -  https://developers.google.com/youtube/v3 
+Python - https://pandas.pydata.org/ 
+GitHub - https://github.com/PatttyCakess/Youtube-API-project 
 
